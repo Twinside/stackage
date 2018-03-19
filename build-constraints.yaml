@@ -3586,7 +3586,6 @@ packages:
         - H < 0 # GHC 8.4 via inline-r
         - jmacro-rpc < 0 # GHC 8.4 via jmacro
         - jmacro-rpc-snap < 0 # GHC 8.4 via jmacro
-        - asciidiagram < 0 # GHC 8.4 via rasterific-svg
         - simple-session < 0 # GHC 8.4 via simple
         - hedis < 0 # GHC 8.4 via slave-thread
         - distributed-process-monad-control < 0 # GHC 8.4 via distributed-process
